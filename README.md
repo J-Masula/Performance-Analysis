@@ -10,8 +10,10 @@ This project showcases data analysis and visualization using Microsoft Excel. It
 - Created **visual dashboards** with graphs for easy interpretation of the results
 
 ## 📁 Files Included:
-- `Boot.xlsx`: Final report with lookup formulas, pivot tables, and charts
-- Sc.PNG File : Visuals screenshot
+- [Boot.xlsm – Final Excel dashboard report with formulas and visuals](https://github.com/J-Masula/Performance-Analysis/blob/main/Boot.xlsm)
+- [Sc.PNG – Screenshot of Excel visuals and layout](https://github.com/J-Masula/Performance-Analysis/blob/main/Sc.PNG)
+- [Sc2.PNG – Another screenshot](https://github.com/J-Masula/Performance-Analysis/blob/main/Sc2.PNG)
+  
 
 ## 🧰 Tools Used:
 - Microsoft Excel
